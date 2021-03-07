@@ -120,7 +120,7 @@ export const socials = [
     items: [
       {
         label: "English",
-        href: "https://t.me/goosedefi",
+        href: "https://t.me/macanswap",
       },
       // {
       //   label: "Bahasa Indonesia",
@@ -128,7 +128,7 @@ export const socials = [
       // },
       {
         label: "中文",
-        href: "https://t.me/goosefinancechinese",
+        href: "https://t.me/macanchinese",
       },
       // {
       //   label: "Tiếng Việt",
@@ -140,11 +140,11 @@ export const socials = [
       // },
       {
         label: "русский",
-        href: "https://t.me/goosefinancerussian",
+        href: "https://t.me/macanrussian",
       },
       {
         label: "Türkiye",
-        href: "https://t.me/GooseFinanceTurkey",
+        href: "https://t.me/macanTurkey",
       },
       // {
       //   label: "Português",
@@ -152,11 +152,11 @@ export const socials = [
       // },
       {
         label: "Español",
-        href: "https://t.me/goosefinancespanish",
+        href: "https://t.me/macanpanish",
       },
       {
         label: "日本語",
-        href: "https://t.me/goosefinancejapanese",
+        href: "https://t.me/macanjapanese",
       },
       // {
       //   label: "Français",
@@ -164,18 +164,18 @@ export const socials = [
       // },
       {
         label: "Announcements",
-        href: "https://t.me/goosefinanceann",
+        href: "https://t.me/",
       },
       {
         label: "Price Bot",
-        href: "https://t.me/BinanceRocketEGG",
+        href: "https://t.me/",
       },
     ],
   },
   {
     label: "Twitter",
     icon: "TwitterIcon",
-    href: "https://twitter.com/FinanceGoose",
+    href: "https://twitter.com/macanswap",
   },
 ];
 
