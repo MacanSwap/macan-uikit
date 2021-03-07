@@ -99,15 +99,15 @@ export const links = [
       // },
       {
         label: "Github",
-        href: "https://github.com/goosedefi/",
+        href: "https://github.com/MacanSwap/",
       },
       {
         label: "Docs",
-        href: "https://goosedefi.gitbook.io/goose-finance/",
+        href: "",
       },
       {
         label: "Blog",
-        href: "https://goosefinance.medium.com/",
+        href: "https://MacanSwap.medium.com/",
       },
     ],
   },
